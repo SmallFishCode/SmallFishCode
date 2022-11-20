@@ -1,30 +1,38 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—小鱼
+<p align="center">
+<h2 height="200px" align="center">Small Fish <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+<h2 align="center">Welcome to SmallFish's space~</h3>
+</p>
 
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目源码的学习。
+## 个人信息-小鱼
+- 2023届毕业生 大四学生
+- 邮箱：3226033807@qq.com
+- 电话：17879328848
 
-### **社交主页：**
+## 工作经历
+- 2022年06 - 至今 上海 **哔哩哔哩** 科技有限公司 前端开发实习生
+- 2022年03 - 05 浙江九州云信息科技有限公司 前端研发实习生
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+## 社交主页
 
+- Gitee：https://gitee.com/small-fish-code  (2022年11月 Gitee 迁移至 Github)
+- LeetCode：https://leetcode.cn/u/zjtdyzj
+- 牛客网：https://www.nowcoder.com/users/129889778
+- 个人博客：http://smallfish.space
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+## 技术栈
+`HTML` `CSS` `JS` `VUE` `REACT` `WEBPACK` `VITE` `GIT` `NODE` `KOA`  ...
 
-### **技术栈:**
+<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+## 个人仓库
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+### 源码系列
+- myWebpack：https://github.com/SmallFishCode/myWebpack
+- myKoa：https://github.com/SmallFishCode/myKoa
+
+### 开源组件
+- VerifyCode：https://github.com/SmallFishCode/VerifyCode
 
 ### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)]([https://github.com/Minori-ty/mp4To4K-rust](https://github.com/SmallFishCode/myKoa))
-<br><br><br>
+- FishHeartChat：https://github.com/SmallFishCode/FishHeartChat
