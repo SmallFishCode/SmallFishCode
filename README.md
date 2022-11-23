@@ -19,8 +19,9 @@
 
 - Gitee：https://gitee.com/small-fish-code  (2022年11月 Gitee 迁移至 Github)
 - LeetCode：https://leetcode.cn/u/zjtdyzj
-- 牛客网：https://www.nowcoder.com/users/129889778
 - 个人博客：http://smallfish.space
+- 牛客网：https://www.nowcoder.com/users/129889778
+- Github: https://github.com/SmallFishCode
 
 ## 技术栈
 `HTML` `CSS` `JS` `VUE` `REACT` `WEBPACK` `VITE` `GIT` `NODE` `KOA`  ...
@@ -31,6 +32,7 @@
 
 ### 源码系列
 - myWebpack：https://github.com/SmallFishCode/myWebpack
+- myVite: https://github.com/SmallFishCode/MyVite
 - myKoa：https://github.com/SmallFishCode/myKoa
 
 ### 开源组件
