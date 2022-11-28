@@ -39,7 +39,7 @@
 - VerifyCode：https://github.com/SmallFishCode/VerifyCode
 
 ### 开源项目
-- ** 自研 node 框架(Fish.js)** : https://github.com/SmallFishCode/Fish
+- **自研 node 框架(Fish.js)** : https://github.com/SmallFishCode/Fish
 - FishHeartChat：https://github.com/SmallFishCode/FishHeartChat
 
 ---
