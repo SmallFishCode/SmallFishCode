@@ -35,12 +35,13 @@
 - myVite: https://github.com/SmallFishCode/MyVite
 - myKoa：https://github.com/SmallFishCode/myKoa
 
-### 开源组件
-- VerifyCode：https://github.com/SmallFishCode/VerifyCode
-
 ### 开源项目
 - **自研 node 框架(Fish.js)** : https://github.com/SmallFishCode/Fish
 - FishHeartChat：https://github.com/SmallFishCode/FishHeartChat
+
+### 开源组件
+- VerifyCode：https://github.com/SmallFishCode/VerifyCode
+
 
 ---
 You are my  ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor, Thank you!!
