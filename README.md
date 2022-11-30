@@ -36,7 +36,7 @@
 - myKoa：https://github.com/SmallFishCode/myKoa
 
 ### 开源项目
-- **自研 node 框架(Fish.js)** : https://github.com/SmallFishCode/Fish
+- **自研 node 框架(Fish.js)** : https://github.com/SmallFishCode/Fish-Demo
 - FishHeartChat：https://github.com/SmallFishCode/FishHeartChat
 
 ### 开源组件
